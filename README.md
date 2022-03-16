@@ -1,5 +1,5 @@
-# Next.js Template
-### Everything needed to get started with a Next.js project. 
+# React.js Template
+### Everything needed to get started with a React.js project. 
 
 This template includes the following:
 </br>
